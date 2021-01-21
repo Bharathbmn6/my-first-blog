@@ -25,7 +25,7 @@ SECRET_KEY = '@^!5ks^5xz5u(utgh1ypbsvyjw0c#*1fbnjzvgn0a5=)si@9n*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'bharathbmn.pythonanywhere.com']
 
 # LOGIN_REDIRECT_URL = '/'
 
